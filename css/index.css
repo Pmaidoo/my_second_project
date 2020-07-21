@@ -1,0 +1,13 @@
+body{
+    background-color: yellow;
+}
+
+p {
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+table, th, td{
+    border: 1px solid black
+}
